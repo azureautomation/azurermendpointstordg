@@ -1,0 +1,20 @@
+{
+    "Author": "Noel Stephenson",
+    "ContentSize": 6532,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azurermendpointstordg/master/AzureRM-EndpointsToRDG.ps1",
+    "DownloadCount": 567,
+    "Id": "AzureRM-EndpointsToRDG-c028aa1e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 327,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-8-25T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Create an RDG file for all your ARM based VMs.\u00a0\u00a0Creates an RDG file for Remote Desktop Connection Manager continaing all your Azure ARM Endpoints. Script can use internal IP addresses or External IP Addresses if VM contains External IP.Script cycles through all subscriptions asso",
+    "Title": "AzureRM-EndpointsToRDG",
+    "UpdatedDate": "2016-8-25T00:00:00",
+    "Url": "https://github.com/azureautomation/azurermendpointstordg",
+    "UserTags": ""
+}
